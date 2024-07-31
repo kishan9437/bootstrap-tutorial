@@ -1,0 +1,20 @@
+.container{
+    border: 5px solid green;
+}
+.row{
+    border: 5px solid aqua;
+}
+.yellow{
+    background: yellow;
+}
+
+.orange{
+    background: orange;
+}
+
+.pink{
+    background: pink;
+}
+.blue{
+    background: blue;
+}
